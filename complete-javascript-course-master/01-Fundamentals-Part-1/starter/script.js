@@ -6,3 +6,7 @@ console.log("Jonas");
 
 let firstName = 'Jonas'; //deklarace proměnné
 console.log(firstName);
+
+if (firstName === "Jonas") {
+    console.log("Yikes")
+}
